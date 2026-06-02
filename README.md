@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twocomet&show_icons=true&theme=radical)
+[![GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&theme=nord&hide_border=true)](https://github.com/twocomet)
